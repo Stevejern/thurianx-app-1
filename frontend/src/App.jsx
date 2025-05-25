@@ -88,10 +88,6 @@ function WelcomeScreen({ onStart, lang, setLang }) {
         </p>
       </motion.div>
 
-      <audio controls className="mt-4">
-  <source src="/Sia_-_Unstoppable_CeeNaija.com_.mp3" type="audio/mpeg" />
-  Your browser does not support the audio element.
-</audio>
 
       <motion.div
         initial={{ opacity: 0 }}
